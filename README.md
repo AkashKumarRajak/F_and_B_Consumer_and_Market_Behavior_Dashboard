@@ -21,7 +21,7 @@ This project involved building a comprehensive data-driven market intelligence d
 
 ### 1. Consumer Analysis
 
-[Consumer Insights](images/Image1.png)  
+![Consumer Insights](images/Image1.png)
 
 - % of people who tried CodeX (brand adoption)
 - Health perception (concerned vs not concerned)
