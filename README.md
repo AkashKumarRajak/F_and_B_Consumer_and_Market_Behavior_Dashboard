@@ -1,7 +1,7 @@
 
 # CodeX Brand Analysis – F&B Market Intelligence Project
 
-## Dashboard Preview
+## Overview
 
 This project involved building a comprehensive data-driven market intelligence dashboard for **CodeX**, a functional beverage brand, using insights from **10,000+ consumer survey responses**. The goal was to uncover key behavioral patterns, preferences, and competitive benchmarks to inform product development, marketing strategy, and market positioning.
 
@@ -21,7 +21,7 @@ This project involved building a comprehensive data-driven market intelligence d
 
 ### 1. Consumer Analysis
 
-![Consumer Insights](Image%201.png) 
+![Consumer Insights](Image1.png)  
 
 - % of people who tried CodeX (brand adoption)
 - Health perception (concerned vs not concerned)
@@ -31,7 +31,7 @@ This project involved building a comprehensive data-driven market intelligence d
 
 ### 2. Market Analysis
 
-[Market Insights](images/Image2.png) 
+![Market Insights](Image2.png) 
 
 - Purchase locations (supermarkets, online, gyms, local stores)
 - Packaging preferences (eco-friendly, portable, innovative)
