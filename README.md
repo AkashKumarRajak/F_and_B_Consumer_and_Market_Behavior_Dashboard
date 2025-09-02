@@ -25,7 +25,7 @@ This project involved building a comprehensive data-driven market intelligence d
 
 ### 2. Demographic Analysis
 
-![Demographic Analysis](DemographicAnalysis.png) 
+![Demographic Analysis](Demographic_Analysis.png) 
 
 
 
