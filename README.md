@@ -33,7 +33,7 @@ This project involved building a comprehensive data-driven market intelligence d
 
 ### 4. Competitor Analysis
 
-![Competitor Analysis](Competition_Analysis.png) 
+![Competitor Analysis](Competitor_Analysis.png) 
 
 ### 5. Market Analysis
 
