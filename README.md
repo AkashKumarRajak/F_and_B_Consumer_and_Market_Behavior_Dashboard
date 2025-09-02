@@ -19,24 +19,15 @@ This project involved building a comprehensive data-driven market intelligence d
 
 ## Dashboard Features
 
-### 1. Consumer Analysis
+### 1. Introduction
 
-![Consumer Insights](Image2.png)  
+![Introduction](Introduction.png)  
 
-- % of people who tried CodeX (brand adoption)
-- Health perception (concerned vs not concerned)
-- Brand sentiment (positive, neutral, negative)
-- Typical consumption scenarios (sports, studying, social outings, commuting)
-- Gender-wise consumer ratio
+### 2. Demographic Analysis
 
-### 2. Market Analysis
+![Demographic Analysis](DemographicAnalysis.png) 
 
-![Market Insights](Image1.png) 
 
-- Purchase locations (supermarkets, online, gyms, local stores)
-- Packaging preferences (eco-friendly, portable, innovative)
-- Marketing channel popularity (online ads, TV, outdoor, print)
-- Brand vs. marketing channel effectiveness
 
 ---
 
