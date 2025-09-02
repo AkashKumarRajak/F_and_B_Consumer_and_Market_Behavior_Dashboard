@@ -17,7 +17,7 @@ This project involved building a comprehensive data-driven market intelligence d
 
 ---
 
-## Dashboard Features
+## Dashboard 
 
 ### 1. Introduction
 
@@ -25,8 +25,23 @@ This project involved building a comprehensive data-driven market intelligence d
 
 ### 2. Demographic Analysis
 
-![Demographic Analysis](Demographic Analysis.png) 
+![Demographic Analysis](Demographic_Analysis.png)  
 
+### 3. Customer Preference Analysis
+
+![Customer Preference Analysis](Customer_Preference_Analysis.png) 
+
+### 4. Competitor Analysis
+
+![Competitor Analysis](Competition_Analysis.png) 
+
+### 5. Market Analysis
+
+![Market Analysis](Market_Analysis.png) 
+
+### 6. CODEX Analysis
+
+![CODEX Analysis](CODEX_Analysis.png) 
 
 
 ---
